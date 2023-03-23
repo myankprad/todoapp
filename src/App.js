@@ -1,9 +1,9 @@
 import './App.css';
-
+import Todos from "./component/Todos" 
 function App() {
   return (
     <div className="App">
-      <header className='App-header'>Todo List with redux</header>
+      <Todos />
     </div>
   );
 }
