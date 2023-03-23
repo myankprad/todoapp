@@ -47,8 +47,7 @@ body {
 .todo-input {
   min-width: 15rem;
   width: 40vw;
-
-  max-height: 2.5rem;
+  min-height: 3rem;
   background-color: #e1ebfd;
   border: none;
   border-radius: 5px;
